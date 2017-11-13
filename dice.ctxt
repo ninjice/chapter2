@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=dice
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfDice
+comment2.target=void\ roll(int)
+comment3.params=
+comment3.target=void\ getInput()
+numComments=4
